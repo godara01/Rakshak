@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "566171706458",
+    "firebase_url": "https://rakshak-c2348.firebaseio.com",
+    "project_id": "rakshak-c2348",
+    "storage_bucket": "rakshak-c2348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566171706458:android:2cb089623c56860e",
+        "android_client_info": {
+          "package_name": "com.example.godara01.rakshak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566171706458-9mlrl1uk7dl4eoqvujhum12kgjj7ogq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG3zO63w22k1C3RIYRXdO54Jh02QEwzRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
